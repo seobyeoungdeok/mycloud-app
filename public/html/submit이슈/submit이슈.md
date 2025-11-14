@@ -1,4 +1,4 @@
-bvbBㅠ## Submit 이슈
+## Submit 이슈
 1. submit이란?
 HTML <form>태그는 버튼을 클릭하거나 엔터를 누르면 자동으로 서버로 요청을 전송함
 

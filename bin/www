@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-var app = require('../app');
+var app = require('../app');//cjs-> commonjs(2009) -> 브라우저에서 동작이 안됨
 var debug = require('debug')('mycloud-app:server');
 var http = require('http');
 
